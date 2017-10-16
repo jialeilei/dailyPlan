@@ -34,3 +34,35 @@ ceclia测试时提出的
 3：产品详情页面发现了新的问题，大图片无法切换问题
 3：很多前端之前解决的问题，lk那边都遗漏了，准备整理相关文档，进行提示。
 
+10月12日
+
+
+遗漏项：
+1：首页开始的6张图片有三张未换
+2：首页 Best Sellers部分，标题有“...”未去掉
+3：产品详情页“buy at amazon” 下划线未去掉
+4：color冒号后面忘记添加空格
+
+新修改项：
+1：forgetPassword.html 删除软键盘
+2：account.html 界面添加软键盘
+3：页面footer  中"Sansitech"链接下划线颜色的更改
+4: 上次产品详情页遗漏的bug，（添加了一个类名，取消了一行注释）
+
+
+10月13日
+
+1：产品详情页优化放大镜
+2：产品详情页评论的优化，变得更美观一些，对字体的大小进行了限制
+3：首页banner 添加跳转链接
+4：首页banner下面6张图片全部更换
+
+遗漏项：
+1：首页bestSellers 点击整个框子可以跳转
+2：首页视频无法播放，请取消对js代码
+“oatn.innerHTML='<iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/uwPivzQ4VRI"
+ frameborder="0" allowfullscreen></iframe>';”的注释
+
+3：bolg详情页，标题没有加粗，段落开始不需要缩进
+4：footer里sansitech，鼠标滑过时是白色而不是蓝色
+5：forget_password.html 界面去掉软键盘图片
